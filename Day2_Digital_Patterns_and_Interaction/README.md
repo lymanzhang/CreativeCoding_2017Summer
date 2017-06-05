@@ -6,7 +6,7 @@ Welcome to Day2: Digital Patterns and Interaction
 ## Condition, Branching Looping and Repeating
 接触编程基础，对条件、逻辑、循环和重复进行学习
 
-- 2.2 条件Condition: 相关运算Relational Operators
+- 2.2 [条件Condition: 相关运算Relational Operators](https://github.com/lymanzhang/CreativeCoding_2017Summer/blob/master/Day2_Digital_Patterns_and_Interaction/conditions%20and%20relational%20operations.md)
 - 2.3 IF and SWITCH
 - 2.4 LOOPING and REPEATING
 - 2.5 绘制50个几何图元（正方形+圆）
