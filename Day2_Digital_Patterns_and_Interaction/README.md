@@ -10,7 +10,7 @@ Welcome to Day2: Digital Patterns and Interaction
 - 2.3 [IF and SWITCH](https://github.com/lymanzhang/CreativeCoding_2017Summer/blob/master/Day2_Digital_Patterns_and_Interaction/IF%20and%20SWITCH.md)
 - 2.4 LOOPING and REPEATING
 - 2.5 绘制50个几何图元（正方形+圆）
-- 2.6 函数的使用
+- 2.6 [函数的使用](https://github.com/lymanzhang/CreativeCoding_2017Summer/blob/master/Day2_Digital_Patterns_and_Interaction/using%20function.md)
 
 ## 有关交互 What is interactivity?
 - 2.7 computer interaction计算机交互
