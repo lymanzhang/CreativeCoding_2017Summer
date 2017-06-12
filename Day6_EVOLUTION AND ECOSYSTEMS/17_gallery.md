@@ -8,13 +8,18 @@ The gallery is curated by the lead-educators and moderators, and at the end of e
 If you’d like your artwork to be considered for the weekly gallery, you’ll need to post it to the [Monash Creative Coding](https://www.flickr.com/groups/2615752@N24/) group on Flickr. If you haven’t already, you’ll need to register with Flickr. If you’re not sure how to do this, review [Signing in to Flickr](https://about.futurelearn.com/about/faq/social-media-tips/#flickrsignin) and [How to join a Flickr group](https://about.futurelearn.com/about/faq/social-media-tips/#flickrgroup).
 
 If you are uploading your artwork to the Monash Creative coding group on Flickr and would like it to be considered for the weekly gallery, please specify the image viewing permissions to 'Public'.
+
 card - Neil Leslie card
+![card](https://github.com/lymanzhang/CreativeCoding_2017Summer/blob/master/Day6_EVOLUTION%20AND%20ECOSYSTEMS/img/card%20-%20Neil%20Leslie.jpg)
 
 postcard - Dave Webb Screen Shot 2017-06-05 at 20.30.37
+![postcard](https://github.com/lymanzhang/CreativeCoding_2017Summer/blob/master/Day6_EVOLUTION%20AND%20ECOSYSTEMS/img/postcard%20-%20Dave%20Webb%20.png)
 
 bridge - Rujbir Pabla bridge
+![bridge](https://github.com/lymanzhang/CreativeCoding_2017Summer/blob/master/Day6_EVOLUTION%20AND%20ECOSYSTEMS/img/bridge%20-%20Rujbir%20Pabla.jpg)
 
-moves - Chris Hamill moves
+moves - Chris Hamill 
+![moves](https://github.com/lymanzhang/CreativeCoding_2017Summer/blob/master/Day6_EVOLUTION%20AND%20ECOSYSTEMS/img/postcard%20-%20Dave%20Webb%20.png)
 
 ### Share your thoughts on this week’s gallery
 In the Comments, share with other learners your thoughts on the artwork that’s been included in the gallery for this week. You might like to ask other learners about the coding that may have been used.
