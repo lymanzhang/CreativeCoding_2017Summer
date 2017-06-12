@@ -1,12 +1,13 @@
-## What is feedback?
-[!Cover](https://github.com/lymanzhang/CreativeCoding_2017Summer/blob/master/Day6_EVOLUTION%20AND%20ECOSYSTEMS/img/cover.jpg)
+## What is feedback?  
 
-Ima Traveller (interactive software installation)
-© 1996 Driessens & Verstappen
+![Cover](https://github.com/lymanzhang/CreativeCoding_2017Summer/blob/master/Day6_EVOLUTION%20AND%20ECOSYSTEMS/img/cover.jpg)  
+Ima Traveller (interactive software installation)            © 1996 Driessens & Verstappen
 
 Feedback is a simple but powerful process that offers rich possibilities for constructing generative artworks.
 
-The basic idea is quite straightforward and outlined in the diagram below. We begin with some object (for example a form, image or sound) that is fed into a system (S) and then undergoes a transformation or variation (T). Following that transformation, the results are fed back into the system and the process repeats. Over many iterations the original form changes, potentially lending to increasing complexity or interesting change. Offering some degree of control over T allows further variation to occur. Sometimes the control of T comes from the object or system itself, leading to self-directed feedback.
+The basic idea is quite straightforward and outlined in the diagram below. We begin with some object (for example a form, image or sound) that is fed into a system (S) and then undergoes a transformation or variation (T). Following that transformation, the results are fed back into the system and the process repeats. Over many iterations the original form changes, potentially lending to increasing complexity or interesting change. Offering some degree of control over T allows further variation to occur. Sometimes the control of T comes from the object or system itself, leading to self-directed feedback.  
+
+![Feedback](https://github.com/lymanzhang/CreativeCoding_2017Summer/blob/master/Day6_EVOLUTION%20AND%20ECOSYSTEMS/img/feedback_system.jpg)
 
 Schematic diagram of feedback
 
