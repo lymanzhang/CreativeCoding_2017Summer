@@ -1,5 +1,5 @@
 ## What is feedback?
-
+[!Cover](https://github.com/lymanzhang/CreativeCoding_2017Summer/blob/master/Day6_EVOLUTION%20AND%20ECOSYSTEMS/img/cover.jpg)
 
 Ima Traveller (interactive software installation)
 © 1996 Driessens & Verstappen
