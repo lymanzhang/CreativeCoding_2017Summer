@@ -1,5 +1,7 @@
 ## Recursion
 
+![recursion](https://github.com/lymanzhang/CreativeCoding_2017Summer/blob/master/Day6_EVOLUTION%20AND%20ECOSYSTEMS/img/recursion.jpg)  
+
 The programming equivalent of feedback is recursion.
 
 Great fleas have little fleas upon their backs to bite 'em,
