@@ -1,5 +1,7 @@
 ## Life as we know it
 
+![Life as we know it](https://github.com/lymanzhang/CreativeCoding_2017Summer/blob/master/Day6_EVOLUTION%20AND%20ECOSYSTEMS/img/LifeAsWeKnowIt.jpg)
+
 __‘Artificial life’ is a term first used by the computer scientist Chris Langton in 1986 to describe human-made systems that exhibit behaviours characteristic in biological systems, such as morphogenetic development, metabolism and adaptation. The domain is concerned with generating lifelike behaviour using computer simulations or by building robots.__
 
 For Langton the point of difference from the other sciences is to wed life to the property of form and not matter. In other words artificial life describes a specific area of research investigating the principles that constitute a living system independently from the materials that constitute it. Whilst this might seem harmless enough, the underlying principle attempts to redefine the single, carbon-based instance of ‘life-as-we-know-it’ to the more general phenomena of ‘life-as-it-could-be’, where ‘life’ is defined by mechanisms and behaviours that might be realised in other media, such as silicon.
