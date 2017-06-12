@@ -1,5 +1,7 @@
 ## The evolutionary algorithm
 
+![The evolutionary algorithm](https://github.com/lymanzhang/CreativeCoding_2017Summer/blob/master/Day6_EVOLUTION%20AND%20ECOSYSTEMS/img/evolutionaryAlgorithm.jpg)
+
 __Many different variations of the evolutionary algorithm have been developed for computing, but the basic principle is straightforward.__
 
 The Darwinian process of evolution by natural selection can be summarised by three conditions:
