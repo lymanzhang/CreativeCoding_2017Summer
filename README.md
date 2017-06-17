@@ -22,3 +22,6 @@ Course Materials for 基于开源环境的创意建模
 - 项目B
 - 项目C
 - 其他项目
+
+## 参考网站
+- [Algorithmic Art](https://www.meetup.com/Algorithmic-Art/)
